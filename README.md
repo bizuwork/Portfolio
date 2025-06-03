@@ -1,49 +1,48 @@
-# Professional Portfolio
+# Bizuwork Fekibelu - Professional Portfolio
 
-Welcome to my professional portfolio! This repository contains my personal portfolio website showcasing my experience, skills, and achievements.
+Welcome to my professional portfolio! I am a Fintech Product & Project Manager with over 10 years of experience in driving product strategy, development, and launch within the IT and financial technology sector.
 
 ## 🌐 Live Website
 You can view my portfolio at: https://bizuwork.github.io/Portfolio/
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Responsive Design
-- Git/GitHub
+## 👨‍💼 Professional Summary
+Highly motivated and results-oriented Fintech Product Owner with expertise in:
+- Product Strategy & Development
+- Agile Project Management
+- Mobile App Development
+- Payment Integrations
+- User-Centric Design
 
-## 📂 Project Structure
-- `index.htm` - Main portfolio page
-- `styles` - Embedded CSS styles for clean, modern design
-- `.gitignore` - Configuration for Git version control
+## 🛠️ Core Competencies
+- Project Management
+- Mobile App Development
+- Payment Integrations
+- Agile/Scrum
+- Stakeholder Management
+- User Research
+- Requirements Gathering
+- Risk Management
+- Communication
+- Problem-Solving
 
-## 🔄 Recent Updates
-- Initial portfolio setup
-- Responsive design implementation
-- Professional layout and structure
+## 💼 Current Role
+**Fintech Product Owner** at YaYa Wallet/ YaYa PII (April 2024 - Present)
+- Leading product strategy and execution for mobile financial services platform
+- Managing payment integrations and user experience
+- Guiding cross-functional teams in agile development
 
-## 📱 Features
-- Mobile-responsive design
-- Clean and professional UI
-- Easy navigation
-- Skills showcase
-- Work experience timeline
-- Contact information
-
-## 🔍 For Recruiters
-This portfolio is designed to give you a comprehensive view of my professional experience and capabilities. Feel free to explore my:
-- Professional experience
-- Technical skills
-- Projects
-- Educational background
+## 🎓 Education
+- MA in Project Management - Addis Ababa University (2015 - 2017)
 
 ## 📞 Contact
 Feel free to reach out to me through:
 - Email: bizuworkf@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- Phone: +251 912689895
+- LinkedIn: [Bizuwork Fekibelu](https://www.linkedin.com/in/bizuwork-fekibelu-38b44025)
 - GitHub: [@bizuwork](https://github.com/bizuwork)
 
 ## 🔄 Updates
-This portfolio is regularly updated to reflect my latest work and achievements.
+This portfolio is regularly updated to reflect my latest work and achievements in the Fintech industry.
 
 ---
-© 2024 Bizuwork. All Rights Reserved. 
+© 2024 Bizuwork Fekibelu. All Rights Reserved. 
